@@ -1,5 +1,7 @@
 /*
-JavaScript Functions
+Title: JavaScript Functions
+Author: Aline Vetrov
+Date: Feb.5, 2020
 */
 
 /**
